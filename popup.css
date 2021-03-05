@@ -52,3 +52,96 @@
     line-height: 73px;
     text-align: center;
 }
+
+#head1 {
+    position: absolute;
+    left: 4px;
+    right: 8.59px;
+    top: 4px;
+    bottom: 4.03px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#head2 {
+    position: absolute;
+    left: 41.92%;
+    right: 48.75%;
+    top: 67.69%;
+    bottom: 27.32%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#head3 {
+    position: absolute;
+    left: 51.25%;
+    right: 28.33%;
+    top: 67.69%;
+    bottom: 27.32%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.col1 {
+    position: absolute;
+    left: 7.49%;
+    right: 57.5%;
+    top: 72.68%;
+    bottom: 22.32%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.col2 {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 2px;
+    bottom: 2px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.col3 {
+    position: absolute;
+    left: 51.25%;
+    right: 28.33%;
+    top: 72.68%;
+    bottom: 22.32%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+}
